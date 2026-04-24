@@ -1,0 +1,9 @@
+{
+	"name": "df-ucb-sisger",
+	"location": "mexicocentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a818c7d5-2f72-420a-8bbf-bbdd6527867e",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
